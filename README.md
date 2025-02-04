@@ -1,25 +1,6 @@
-<p align="center">
-    <img alt="Android Interview Questions" src="https://raw.githubusercontent.com/amitshekhariitbhu/android-interview-questions/master/assets/banner-android-interview-questions.jpg">
-</p>
-
 # Android Interview Questions and Answers
 
 > Android Interview Questions and Answers - Your Cheat Sheet For Android Interview
-
-### Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) - Coder | Teacher | Mentor | Open Source | IIT 2010-14
-
-## About me
-
-Hi, I am Amit Shekhar, Co-Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
-
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-## **Join Outcome School and get high paying tech job: [Outcome School](https://outcomeschool.com)**
 
 ## Contents - Android Interview Questions
 
@@ -1056,38 +1037,7 @@ Android Interview Questions and Answers:
 
 * **How to show local Notification at an exact time?**
 
-### Data Structures and Algorithms
-
-* **Android Developer should know these Data Structures for Next Interview** - [Check here](https://outcomeschool.com/blog/android-developer-should-know-these-data-structures-for-next-interview)
-
-### High-quality videos to prepare for Android Interview - [Amit Shekhar YouTube Channel](https://www.youtube.com/@amitshekhar)
-
-### High-quality blogs to prepare for Android Interview - [Check here - Outcome School Blog](https://outcomeschool.com/blog)
 
 ### Found this project useful :heart:
 
 * Support by clicking the :star: button on the upper right of this page. :v:
-
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-### License
-```
-   Copyright (C) 2024 Amit Shekhar
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
